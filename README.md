@@ -82,5 +82,10 @@ QVI_data(1).csv
 7. Visualization
 8. Business Insights & Recommendations
 
+ ## Presentation & Reporting
+
+- Created a professional PowerPoint presentation template to summarize business insights and recommendations.
+
+
 zes contribute higher sales
 - Similar control stores were identified using correlation analysis
